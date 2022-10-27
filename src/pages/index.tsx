@@ -4,7 +4,7 @@ import type { HeadFC } from "gatsby";
 const IndexPage = () => {
   return (
     <main>
-      Wei Zang
+      <h2>Gatsby with DT9 Features</h2>
     </main>
   )
 }
@@ -12,5 +12,8 @@ const IndexPage = () => {
 export default IndexPage;
 
 export const Head: HeadFC = () => {
-  return <title>Wei Zang</title>;
+  return (<title>
+            Gatsby with DT9 Features
+          </title>
+  );
 }
