@@ -1,6 +1,6 @@
 {
   "name": "ts-mui-gatsby",
-  "version": "",
+  "version": "1.0.2",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
