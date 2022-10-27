@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="250px" viewBox="0 0 300 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>box</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CA0E1A" offset="0%"></stop>
+            <stop stop-color="#6C040B" offset="99.9480988%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="DT9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box">
+            <rect id="background" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="250"></rect>
+            <g id="DT9_Logo" transform="translate(106.000000, 81.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M44.0005885,0 L7.17531399,0 C5.27251891,0 3.44744366,0.754770121 2.10174354,2.09993876 C0.75604343,3.44510741 0,5.26981263 0,7.17248056 L0,62.2548685 L27.6678036,34.5912692 L18.4491259,25.377916 L58.3441542,25.377916 L58.3441542,65.277338 L49.2879098,56.2216993 L17.5074836,88 L43.9982344,88 C68.2997385,88 88,68.301056 88,44.0011772 C88,19.7012983 68.2997385,0.00235433504 43.9982344,0.00235433504" id="Tracciato"></path>
+            </g>
+        </g>
+    </g>
+</svg>
