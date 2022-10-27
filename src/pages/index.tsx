@@ -1,13 +1,19 @@
 import * as React from "react";
 import type { HeadFC } from "gatsby";
+import {
+  Container,
+  Typography,
+} from "@mui/material";
 
 const IndexPage = () => {
   return (
-    <main>
-      <h2>Gatsby with DT9 Features</h2>
-    </main>
-  )
-}
+    <Container>
+      <Typography variant="h6">
+        Gatsby with DT9 Features
+      </Typography>
+    </Container>
+  );
+};
 
 export default IndexPage;
 
@@ -16,4 +22,4 @@ export const Head: HeadFC = () => {
             Gatsby with DT9 Features
           </title>
   );
-}
+};
